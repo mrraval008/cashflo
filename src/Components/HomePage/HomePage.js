@@ -1,5 +1,5 @@
 import { pageLayout } from "../../Configs/config"
-import Card from "../Card/Card";
+import Card from "../../Library/Card/Card";
 
 export default function HomePage(){
     let cards = pageLayout;
