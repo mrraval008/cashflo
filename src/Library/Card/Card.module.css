@@ -2,9 +2,8 @@
     display: flex;
     margin: 10px 20px;
     justify-content: space-around;
-    height: 300px;
     padding: 30px;
-    flex-wrap: wrap;
+    flex-wrap: wrap-reverse;
 }
 .left_contianer , .right_contianer{
     display: flex;
