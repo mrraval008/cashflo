@@ -1,0 +1,25 @@
+.container{
+    display: flex;
+    margin: 10px 20px;
+    justify-content: space-around;
+    height: 300px;
+    padding: 30px;
+    flex-wrap: wrap;
+}
+.left_contianer , .right_contianer{
+    display: flex;
+    justify-content: center;
+    width: 50%;
+    min-width: 200px;
+}
+.container img{
+    min-width: 200px;
+    max-width: 300px;
+}
+.background{
+    background: #f2dada9c;
+}
+.list{
+    margin: 0px 40px;
+}
+

@@ -1,0 +1,25 @@
+.bigTitle{
+    font-size: 40px;
+}
+.smallTitle{
+    font-size: 30px;
+}
+button {
+    background: #fb4f4f9c;
+    padding: 20px 30px;
+    border: none;
+    border-radius: 5px;
+    font-size: 20px;
+    color: white;
+}
+.listItem{
+    margin-left: 10px;
+}
+.listIcon{
+    color:red;
+    font-size: 30px;
+}
+a{
+    color:red;
+    margin-top: 20px;  
+}

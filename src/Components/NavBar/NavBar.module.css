@@ -1,0 +1,21 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 80px;
+    align-items: center;
+    box-shadow: 2px 2px 5px gray;
+}
+.header a{
+    color: black;
+}
+.header button {
+    background: #fb4f4f9c;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+}
+.header img{
+    height: 50px;
+    width: 50px;
+}
